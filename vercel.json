@@ -1,6 +1,6 @@
 {
     "name": "UPAYI",
-    "version": 3.9,
+    "version": 2,
     "builds": [{
         "src": "*.py",
         "use": "@vercel/python"
